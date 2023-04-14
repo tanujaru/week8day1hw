@@ -1,0 +1,89 @@
+.App {
+  text-align: center;
+}
+
+.maincont{
+  padding: 2px;
+  display: flex;
+  align-items: flex-start;
+
+background-color: azure;
+margin: 10PX;
+  }
+.visitor{
+top: 10px;
+height: 600px;
+width: 600px;
+background-color: gray;
+position: absolute;
+display: flex;
+align-self:first baseline;
+margin-top: 300px;
+position: absolute;
+margin-left: 2px;
+align-self: center;
+}
+.inner{
+  background-color:lightgray;
+  margin-top: 20px;
+  
+height:400px;
+width: 400px;
+padding-top: 20px;
+
+
+
+}
+.side{
+  height: 800px;
+  width: 200px;
+  background-color: gray;
+  padding: 2px;
+  position: relative;
+  
+
+
+}
+
+.box1{ height: 200px;
+  width: 200px;
+  background-color: grey;
+  
+}
+  
+  
+
+.box2{
+  height: 200px;
+  width: 200px;
+  background-color: grey;
+  
+}
+
+
+
+.box3{
+  height: 200px;
+  width: 200px;
+  background-color: grey;
+  
+}
+
+
+
+.threediv{
+  
+  display: flex;
+align-items:flex-start;
+  top: 10px;
+  
+align-items: center;
+  top: 200px;
+  margin-left: 400px;
+  margin: 2px;
+  padding: 2px;
+  
+
+
+}
+
